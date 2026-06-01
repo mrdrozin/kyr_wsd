@@ -64,10 +64,8 @@ cp .env.example .env        # вставьте свой ключ DeepSeek API
 
 - **Обучающие корпуса и тяжёлые артефакты** (`experiments/data/*`,
   `kyr_wsd_dataset/`, исходные контексты Конституции, словарь Удахина и др.) —
-  Google Drive: **<ВСТАВЬТЕ ССЫЛКУ>**. Скачайте и разложите по путям,
+  Google Drive: **https://drive.google.com/file/d/12PoQ6Ro2Qkg0KcKe44E1EFcM55afx0_6/view?usp=sharing**. Скачайте и разложите по путям,
   указанным в архиве.
-- **SemCor (wsd-data)** — внешний датасет, не входит в репозиторий.
-  Клонируйте в `wsd-data/`: https://github.com/<...>/wsd-data
 
 Обучающие выборки также можно воссоздать из SemCor скриптами
 `main_scripts/build_train_set.py` и `build_train_set_extended.py`.
