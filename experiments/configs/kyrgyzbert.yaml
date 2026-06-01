@@ -1,0 +1,15 @@
+# KyrgyzBERT — основная модель (монолингвальная, ~35.9M параметров).
+model_name: metinovadilet/KyrgyzBert
+
+# На A100 маленькая модель влезает крупным батчем — увеличиваем eff до 64.
+batch_size: 64
+
+# Маленькая модель + тяжёлая задача (реальные дистракторы) -> стандартный LoRA
+# (r=16, только query/value) сильно недообучается. Расширяем адаптер.
+max_epochs: 15
+lora:
+  r: 32
+  alpha: 64
+  target_modules: [query, key, value, dense]
+  dropout: 0.1
+  lr: 2.0e-4

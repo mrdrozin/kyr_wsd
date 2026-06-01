@@ -1,0 +1,14 @@
+{
+  "model_name": "kz-transformers/kaz-roberta-conversational",
+  "lora": true,
+  "seed": 1,
+  "max_length": 256,
+  "dropout": 0.2,
+  "lr": 0.0002,
+  "lora_params": {
+    "r": 16,
+    "alpha": 32,
+    "dropout": 0.1,
+    "lr": 0.0002
+  }
+}

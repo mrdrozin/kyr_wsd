@@ -1,0 +1,9 @@
+# Зависимости для запуска экспериментального пайплайна на Colab/Kaggle (GPU).
+# torch, numpy и matplotlib обычно предустановлены — оставлены для полноты.
+torch
+numpy
+matplotlib
+transformers>=4.40
+peft>=0.10
+pyyaml
+accelerate       # бэкенд HF Seq2SeqTrainer

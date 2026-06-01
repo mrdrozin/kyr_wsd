@@ -1,0 +1,343 @@
+{
+  "per_run": [
+    {
+      "run": "KyrgyzBert_full_extended_seed1",
+      "accuracy": 0.4543,
+      "ci95": [
+        0.4064,
+        0.5023
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "KyrgyzBert_full_extended_seed2",
+      "accuracy": 0.5068,
+      "ci95": [
+        0.4612,
+        0.5548
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "KyrgyzBert_full_extended_seed42",
+      "accuracy": 0.3288,
+      "ci95": [
+        0.2831,
+        0.3721
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "KyrgyzBert_lora_extended_seed1",
+      "accuracy": 0.7717,
+      "ci95": [
+        0.7329,
+        0.8082
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "KyrgyzBert_lora_extended_seed2",
+      "accuracy": 0.7283,
+      "ci95": [
+        0.6849,
+        0.7671
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "KyrgyzBert_lora_extended_seed42",
+      "accuracy": 0.7785,
+      "ci95": [
+        0.7374,
+        0.8174
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "xlm-roberta-base_full_extended_seed1",
+      "accuracy": 0.5365,
+      "ci95": [
+        0.4909,
+        0.5845
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "xlm-roberta-base_full_extended_seed2",
+      "accuracy": 0.484,
+      "ci95": [
+        0.4361,
+        0.532
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "xlm-roberta-base_full_extended_seed42",
+      "accuracy": 0.6279,
+      "ci95": [
+        0.5822,
+        0.6712
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "xlm-roberta-base_lora_extended_seed1",
+      "accuracy": 0.8037,
+      "ci95": [
+        0.7671,
+        0.8402
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "xlm-roberta-base_lora_extended_seed2",
+      "accuracy": 0.8196,
+      "ci95": [
+        0.7831,
+        0.8539
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "xlm-roberta-base_lora_extended_seed42",
+      "accuracy": 0.7945,
+      "ci95": [
+        0.758,
+        0.8333
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "bert-base-multilingual-cased_full_extended_seed1",
+      "accuracy": 0.8174,
+      "ci95": [
+        0.7785,
+        0.8516
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "bert-base-multilingual-cased_full_extended_seed2",
+      "accuracy": 0.7192,
+      "ci95": [
+        0.6781,
+        0.7603
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "bert-base-multilingual-cased_full_extended_seed42",
+      "accuracy": 0.7146,
+      "ci95": [
+        0.6735,
+        0.7557
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "bert-base-multilingual-cased_lora_extended_seed1",
+      "accuracy": 0.7671,
+      "ci95": [
+        0.726,
+        0.8082
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "bert-base-multilingual-cased_lora_extended_seed2",
+      "accuracy": 0.7489,
+      "ci95": [
+        0.71,
+        0.7877
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "bert-base-multilingual-cased_lora_extended_seed42",
+      "accuracy": 0.7557,
+      "ci95": [
+        0.7146,
+        0.7945
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "kaz-roberta-conversational_full_extended_seed1",
+      "accuracy": 0.6187,
+      "ci95": [
+        0.5731,
+        0.6621
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "kaz-roberta-conversational_full_extended_seed2",
+      "accuracy": 0.6279,
+      "ci95": [
+        0.5822,
+        0.6712
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "kaz-roberta-conversational_full_extended_seed42",
+      "accuracy": 0.621,
+      "ci95": [
+        0.5753,
+        0.6644
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "kaz-roberta-conversational_lora_extended_seed1",
+      "accuracy": 0.605,
+      "ci95": [
+        0.5594,
+        0.6484
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "kaz-roberta-conversational_lora_extended_seed2",
+      "accuracy": 0.621,
+      "ci95": [
+        0.5753,
+        0.6644
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "kaz-roberta-conversational_lora_extended_seed42",
+      "accuracy": 0.605,
+      "ci95": [
+        0.5571,
+        0.6484
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    }
+  ],
+  "by_config": {
+    "KyrgyzBert_full_extended": {
+      "seeds": 3,
+      "accuracies": [
+        0.4543,
+        0.5068,
+        0.3288
+      ],
+      "mean": 0.43,
+      "std": 0.0915,
+      "min": 0.3288,
+      "max": 0.5068
+    },
+    "KyrgyzBert_lora_extended": {
+      "seeds": 3,
+      "accuracies": [
+        0.7717,
+        0.7283,
+        0.7785
+      ],
+      "mean": 0.7595,
+      "std": 0.0272,
+      "min": 0.7283,
+      "max": 0.7785
+    },
+    "xlm-roberta-base_full_extended": {
+      "seeds": 3,
+      "accuracies": [
+        0.5365,
+        0.484,
+        0.6279
+      ],
+      "mean": 0.5495,
+      "std": 0.0728,
+      "min": 0.484,
+      "max": 0.6279
+    },
+    "xlm-roberta-base_lora_extended": {
+      "seeds": 3,
+      "accuracies": [
+        0.8037,
+        0.8196,
+        0.7945
+      ],
+      "mean": 0.8059,
+      "std": 0.0127,
+      "min": 0.7945,
+      "max": 0.8196
+    },
+    "bert-base-multilingual-cased_full_extended": {
+      "seeds": 3,
+      "accuracies": [
+        0.8174,
+        0.7192,
+        0.7146
+      ],
+      "mean": 0.7504,
+      "std": 0.0581,
+      "min": 0.7146,
+      "max": 0.8174
+    },
+    "bert-base-multilingual-cased_lora_extended": {
+      "seeds": 3,
+      "accuracies": [
+        0.7671,
+        0.7489,
+        0.7557
+      ],
+      "mean": 0.7572,
+      "std": 0.0092,
+      "min": 0.7489,
+      "max": 0.7671
+    },
+    "kaz-roberta-conversational_full_extended": {
+      "seeds": 3,
+      "accuracies": [
+        0.6187,
+        0.6279,
+        0.621
+      ],
+      "mean": 0.6225,
+      "std": 0.0048,
+      "min": 0.6187,
+      "max": 0.6279
+    },
+    "kaz-roberta-conversational_lora_extended": {
+      "seeds": 3,
+      "accuracies": [
+        0.605,
+        0.621,
+        0.605
+      ],
+      "mean": 0.6103,
+      "std": 0.0092,
+      "min": 0.605,
+      "max": 0.621
+    }
+  },
+  "failed": []
+}

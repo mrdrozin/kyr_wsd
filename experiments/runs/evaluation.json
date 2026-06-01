@@ -1,0 +1,336 @@
+{
+  "per_run": [
+    {
+      "run": "KyrgyzBert_full_seed1",
+      "accuracy": 0.7466,
+      "ci95": [
+        0.7055,
+        0.7877
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "KyrgyzBert_full_seed2",
+      "accuracy": 0.6781,
+      "ci95": [
+        0.6347,
+        0.7192
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "KyrgyzBert_full_seed3",
+      "accuracy": 0.7078,
+      "ci95": [
+        0.6644,
+        0.7511
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "KyrgyzBert_full_seed4",
+      "accuracy": 0.6164,
+      "ci95": [
+        0.5708,
+        0.6621
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "KyrgyzBert_full_seed42",
+      "accuracy": 0.7123,
+      "ci95": [
+        0.6712,
+        0.7557
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "bert-base-multilingual-cased_full_seed1",
+      "accuracy": 0.7511,
+      "ci95": [
+        0.71,
+        0.79
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "bert-base-multilingual-cased_full_seed2",
+      "accuracy": 0.7146,
+      "ci95": [
+        0.6712,
+        0.7557
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "bert-base-multilingual-cased_full_seed42",
+      "accuracy": 0.7055,
+      "ci95": [
+        0.6644,
+        0.7466
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "bert-base-multilingual-cased_lora_seed1",
+      "accuracy": 0.7694,
+      "ci95": [
+        0.7306,
+        0.806
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "bert-base-multilingual-cased_lora_seed2",
+      "accuracy": 0.7146,
+      "ci95": [
+        0.6712,
+        0.7557
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "bert-base-multilingual-cased_lora_seed42",
+      "accuracy": 0.7854,
+      "ci95": [
+        0.7466,
+        0.8242
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "kaz-roberta-conversational_full_seed1",
+      "accuracy": 0.532,
+      "ci95": [
+        0.484,
+        0.5776
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "kaz-roberta-conversational_full_seed2",
+      "accuracy": 0.5091,
+      "ci95": [
+        0.4658,
+        0.5571
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "kaz-roberta-conversational_full_seed42",
+      "accuracy": 0.4292,
+      "ci95": [
+        0.3836,
+        0.4772
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "kaz-roberta-conversational_lora_seed1",
+      "accuracy": 0.7123,
+      "ci95": [
+        0.6689,
+        0.7534
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "kaz-roberta-conversational_lora_seed2",
+      "accuracy": 0.6256,
+      "ci95": [
+        0.5799,
+        0.6689
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "kaz-roberta-conversational_lora_seed42",
+      "accuracy": 0.6438,
+      "ci95": [
+        0.5959,
+        0.6895
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "xlm-roberta-base_full_seed1",
+      "accuracy": 0.7991,
+      "ci95": [
+        0.7603,
+        0.8356
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "xlm-roberta-base_full_seed2",
+      "accuracy": 0.7763,
+      "ci95": [
+        0.7374,
+        0.8151
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "xlm-roberta-base_full_seed42",
+      "accuracy": 0.8196,
+      "ci95": [
+        0.7831,
+        0.8562
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "xlm-roberta-base_lora_seed1",
+      "accuracy": 0.7991,
+      "ci95": [
+        0.7626,
+        0.8379
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "xlm-roberta-base_lora_seed2",
+      "accuracy": 0.8059,
+      "ci95": [
+        0.7671,
+        0.8425
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "xlm-roberta-base_lora_seed42",
+      "accuracy": 0.774,
+      "ci95": [
+        0.7352,
+        0.8105
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    }
+  ],
+  "by_config": {
+    "KyrgyzBert_full": {
+      "seeds": 5,
+      "accuracies": [
+        0.7466,
+        0.6781,
+        0.7078,
+        0.6164,
+        0.7123
+      ],
+      "mean": 0.6922,
+      "std": 0.0489,
+      "min": 0.6164,
+      "max": 0.7466
+    },
+    "bert-base-multilingual-cased_full": {
+      "seeds": 3,
+      "accuracies": [
+        0.7511,
+        0.7146,
+        0.7055
+      ],
+      "mean": 0.7237,
+      "std": 0.0241,
+      "min": 0.7055,
+      "max": 0.7511
+    },
+    "bert-base-multilingual-cased_lora": {
+      "seeds": 3,
+      "accuracies": [
+        0.7694,
+        0.7146,
+        0.7854
+      ],
+      "mean": 0.7565,
+      "std": 0.0371,
+      "min": 0.7146,
+      "max": 0.7854
+    },
+    "kaz-roberta-conversational_full": {
+      "seeds": 3,
+      "accuracies": [
+        0.532,
+        0.5091,
+        0.4292
+      ],
+      "mean": 0.4901,
+      "std": 0.054,
+      "min": 0.4292,
+      "max": 0.532
+    },
+    "kaz-roberta-conversational_lora": {
+      "seeds": 3,
+      "accuracies": [
+        0.7123,
+        0.6256,
+        0.6438
+      ],
+      "mean": 0.6606,
+      "std": 0.0457,
+      "min": 0.6256,
+      "max": 0.7123
+    },
+    "xlm-roberta-base_full": {
+      "seeds": 3,
+      "accuracies": [
+        0.7991,
+        0.7763,
+        0.8196
+      ],
+      "mean": 0.7983,
+      "std": 0.0217,
+      "min": 0.7763,
+      "max": 0.8196
+    },
+    "xlm-roberta-base_lora": {
+      "seeds": 3,
+      "accuracies": [
+        0.7991,
+        0.8059,
+        0.774
+      ],
+      "mean": 0.793,
+      "std": 0.0168,
+      "min": 0.774,
+      "max": 0.8059
+    }
+  },
+  "failed": [
+    {
+      "run": "KyrgyzBert_lora_seed1",
+      "error": "Error(s) in loading state_dict for GlossSelectionModel:\n\tMissing key(s) in state_dict: \"encoder.base_model.model.encoder.layer.0.attention.self.key.weight\", \"encoder.base_model.model.encoder.layer.0.attention.self.key.bias\", \"encoder.base_model.model.encoder.layer.0.attention.output.dense.weight\", \"encoder.base_model.model.encoder.layer.0.attention.output.dense.bias\", \"encoder.base_model.model.encoder.layer.0.intermediate.dense.weight\", \"encoder.base_model.model.encoder.layer.0.intermediate.dense.bias\", \"encoder.base_model.model.encoder.layer.0.output.dense.weight\", \"encoder.base_model.model.encoder.layer.0.output.dense.bias\", \"encoder.base_model.model.encoder.layer.1.attention.self.key.weight\", \"encoder.base_model.model.encoder.layer.1.attention.self.key.bias\", \"encoder.base_model.model.encoder.layer.1.attention.output.dense.weight\", \"encoder.base_model.model.encoder.layer.1.attention.output.dense.bias\", \"encoder.base_model.model.encoder.layer.1.intermediate.dense.weight\", \"encoder.base_model.model.encoder.layer.1.intermediate.dense.bias\", \"encoder.base_model.model.encoder.layer.1.output.dense.weight\", \"encoder.base_model.model.encoder.layer.1.output.dense.bias\", \"encoder.base_model.model.encoder.layer.2.attention.self.key.weight\", \"encoder.base_model.model.encoder.layer.2.attention.self.key.bias\", \"encoder.base_model.model.encoder.layer.2.attention.output.dense.weight\", \"encoder.base_model.model.encoder.layer.2.attention.output.dense.bias\", \"encoder.base_model.model.encoder.layer.2.intermediate.dense.weight\", \"encoder.base_model.model.encoder.layer.2.intermediate.dense.bias\", \"encoder.base_model.model.encoder.layer.2.output.dense.weight\", \"encoder.base_model.model.encoder.layer.2.output.dense.bias\", \"encoder.base_model.model.encoder.layer.3.attention.self.key.weight\", \"encoder.base_model.model.encoder.layer.3.attention.self.key.bias\", \"encoder.base_model.model.encoder.layer.3.attention.output.dense.weight\", \"encoder.base_model.model.encoder.layer.3.attention.output.dense.bias\", \"encoder.base_model.model.encoder.layer.3.intermediate.dense.weight\", \"encoder.base_model.model.encoder.layer.3.intermediate.dense.bias\", \"encoder.base_model.model.encoder.layer.3.output.dense.weight\", \"encoder.base_model.model.encoder.layer.3.output.dense.bias\", \"encoder.base_model.model.encoder.layer.4.attention.self.key.weight\", \"encoder.base_model.model.encoder.layer.4.attention.self.key.bias\", \"encoder.base_model.model.encoder.layer.4.attention.output.dense.weight\", \"encoder.base_model.model.encoder.layer.4.attention.output.dense.bias\", \"encoder.base_model.model.encoder.layer.4.intermediate.dense.weight\", \"encoder.base_model.model.encoder.layer.4.intermediate.dense.bias\", \"encoder.base_model.model.encoder.layer.4.output.dense.weight\", \"encoder.base_model.model.encoder.layer.4.output.dense.bias\", \"encoder.base_model.model.encoder.layer.5.attention.self.key.weight\", \"encoder.base_model.model.encoder.layer.5.attention.self.key.bias\", \"encoder.base_model.model.encoder.layer.5.attention.output.dense.weight\", \"encoder.base_model.model.encoder.layer.5.attention.output.dense.bias\", \"encoder.base_model.model.encoder.layer.5.intermediate.dense.weight\", \"encoder.base_model.model.encoder.layer.5.intermediate.dense.bias\", \"encoder.base_model.model.encoder.layer.5.output.dense.weight\", \"encoder.base_model.model.encoder.layer.5.output.dense.bias\", \"encoder.base_model.model.pooler.dense.weight\", \"encoder.base_model.model.pooler.dense.bias\". \n\tUnexpected key(s) in state_dict: \"encoder.base_model.model.encoder.layer.0.attention.self.key.base_layer.weight\", \"encoder.base_model.model.encoder.layer.0.attention.self.key.base_layer.bias\", \"encoder.base_model.model.encoder.layer.0.attention.self.key.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.0.attention.self.key.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.0.attention.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.0.attention.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.0.attention.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.0.attention.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.0.intermediate.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.0.intermediate.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.0.intermediate.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.0.intermediate.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.0.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.0.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.0.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.0.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.1.attention.self.key.base_layer.weight\", \"encoder.base_model.model.encoder.layer.1.attention.self.key.base_layer.bias\", \"encoder.base_model.model.encoder.layer.1.attention.self.key.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.1.attention.self.key.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.1.attention.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.1.attention.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.1.attention.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.1.attention.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.1.intermediate.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.1.intermediate.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.1.intermediate.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.1.intermediate.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.1.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.1.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.1.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.1.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.2.attention.self.key.base_layer.weight\", \"encoder.base_model.model.encoder.layer.2.attention.self.key.base_layer.bias\", \"encoder.base_model.model.encoder.layer.2.attention.self.key.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.2.attention.self.key.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.2.attention.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.2.attention.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.2.attention.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.2.attention.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.2.intermediate.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.2.intermediate.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.2.intermediate.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.2.intermediate.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.2.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.2.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.2.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.2.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.3.attention.self.key.base_layer.weight\", \"encoder.base_model.model.encoder.layer.3.attention.self.key.base_layer.bias\", \"encoder.base_model.model.encoder.layer.3.attention.self.key.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.3.attention.self.key.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.3.attention.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.3.attention.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.3.attention.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.3.attention.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.3.intermediate.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.3.intermediate.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.3.intermediate.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.3.intermediate.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.3.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.3.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.3.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.3.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.4.attention.self.key.base_layer.weight\", \"encoder.base_model.model.encoder.layer.4.attention.self.key.base_layer.bias\", \"encoder.base_model.model.encoder.layer.4.attention.self.key.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.4.attention.self.key.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.4.attention.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.4.attention.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.4.attention.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.4.attention.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.4.intermediate.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.4.intermediate.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.4.intermediate.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.4.intermediate.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.4.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.4.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.4.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.4.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.5.attention.self.key.base_layer.weight\", \"encoder.base_model.model.encoder.layer.5.attention.self.key.base_layer.bias\", \"encoder.base_model.model.encoder.layer.5.attention.self.key.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.5.attention.self.key.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.5.attention.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.5.attention.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.5.attention.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.5.attention.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.5.intermediate.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.5.intermediate.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.5.intermediate.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.5.intermediate.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.5.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.5.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.5.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.5.output.dense.lora_B.default.weight\", \"encoder.base_model.model.pooler.dense.base_layer.weight\", \"encoder.base_model.model.pooler.dense.base_layer.bias\", \"encoder.base_model.model.pooler.dense.lora_A.default.weight\", \"encoder.base_model.model.pooler.dense.lora_B.default.weight\". "
+    },
+    {
+      "run": "KyrgyzBert_lora_seed2",
+      "error": "Error(s) in loading state_dict for GlossSelectionModel:\n\tMissing key(s) in state_dict: \"encoder.base_model.model.encoder.layer.0.attention.self.key.weight\", \"encoder.base_model.model.encoder.layer.0.attention.self.key.bias\", \"encoder.base_model.model.encoder.layer.0.attention.output.dense.weight\", \"encoder.base_model.model.encoder.layer.0.attention.output.dense.bias\", \"encoder.base_model.model.encoder.layer.0.intermediate.dense.weight\", \"encoder.base_model.model.encoder.layer.0.intermediate.dense.bias\", \"encoder.base_model.model.encoder.layer.0.output.dense.weight\", \"encoder.base_model.model.encoder.layer.0.output.dense.bias\", \"encoder.base_model.model.encoder.layer.1.attention.self.key.weight\", \"encoder.base_model.model.encoder.layer.1.attention.self.key.bias\", \"encoder.base_model.model.encoder.layer.1.attention.output.dense.weight\", \"encoder.base_model.model.encoder.layer.1.attention.output.dense.bias\", \"encoder.base_model.model.encoder.layer.1.intermediate.dense.weight\", \"encoder.base_model.model.encoder.layer.1.intermediate.dense.bias\", \"encoder.base_model.model.encoder.layer.1.output.dense.weight\", \"encoder.base_model.model.encoder.layer.1.output.dense.bias\", \"encoder.base_model.model.encoder.layer.2.attention.self.key.weight\", \"encoder.base_model.model.encoder.layer.2.attention.self.key.bias\", \"encoder.base_model.model.encoder.layer.2.attention.output.dense.weight\", \"encoder.base_model.model.encoder.layer.2.attention.output.dense.bias\", \"encoder.base_model.model.encoder.layer.2.intermediate.dense.weight\", \"encoder.base_model.model.encoder.layer.2.intermediate.dense.bias\", \"encoder.base_model.model.encoder.layer.2.output.dense.weight\", \"encoder.base_model.model.encoder.layer.2.output.dense.bias\", \"encoder.base_model.model.encoder.layer.3.attention.self.key.weight\", \"encoder.base_model.model.encoder.layer.3.attention.self.key.bias\", \"encoder.base_model.model.encoder.layer.3.attention.output.dense.weight\", \"encoder.base_model.model.encoder.layer.3.attention.output.dense.bias\", \"encoder.base_model.model.encoder.layer.3.intermediate.dense.weight\", \"encoder.base_model.model.encoder.layer.3.intermediate.dense.bias\", \"encoder.base_model.model.encoder.layer.3.output.dense.weight\", \"encoder.base_model.model.encoder.layer.3.output.dense.bias\", \"encoder.base_model.model.encoder.layer.4.attention.self.key.weight\", \"encoder.base_model.model.encoder.layer.4.attention.self.key.bias\", \"encoder.base_model.model.encoder.layer.4.attention.output.dense.weight\", \"encoder.base_model.model.encoder.layer.4.attention.output.dense.bias\", \"encoder.base_model.model.encoder.layer.4.intermediate.dense.weight\", \"encoder.base_model.model.encoder.layer.4.intermediate.dense.bias\", \"encoder.base_model.model.encoder.layer.4.output.dense.weight\", \"encoder.base_model.model.encoder.layer.4.output.dense.bias\", \"encoder.base_model.model.encoder.layer.5.attention.self.key.weight\", \"encoder.base_model.model.encoder.layer.5.attention.self.key.bias\", \"encoder.base_model.model.encoder.layer.5.attention.output.dense.weight\", \"encoder.base_model.model.encoder.layer.5.attention.output.dense.bias\", \"encoder.base_model.model.encoder.layer.5.intermediate.dense.weight\", \"encoder.base_model.model.encoder.layer.5.intermediate.dense.bias\", \"encoder.base_model.model.encoder.layer.5.output.dense.weight\", \"encoder.base_model.model.encoder.layer.5.output.dense.bias\", \"encoder.base_model.model.pooler.dense.weight\", \"encoder.base_model.model.pooler.dense.bias\". \n\tUnexpected key(s) in state_dict: \"encoder.base_model.model.encoder.layer.0.attention.self.key.base_layer.weight\", \"encoder.base_model.model.encoder.layer.0.attention.self.key.base_layer.bias\", \"encoder.base_model.model.encoder.layer.0.attention.self.key.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.0.attention.self.key.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.0.attention.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.0.attention.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.0.attention.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.0.attention.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.0.intermediate.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.0.intermediate.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.0.intermediate.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.0.intermediate.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.0.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.0.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.0.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.0.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.1.attention.self.key.base_layer.weight\", \"encoder.base_model.model.encoder.layer.1.attention.self.key.base_layer.bias\", \"encoder.base_model.model.encoder.layer.1.attention.self.key.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.1.attention.self.key.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.1.attention.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.1.attention.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.1.attention.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.1.attention.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.1.intermediate.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.1.intermediate.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.1.intermediate.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.1.intermediate.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.1.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.1.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.1.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.1.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.2.attention.self.key.base_layer.weight\", \"encoder.base_model.model.encoder.layer.2.attention.self.key.base_layer.bias\", \"encoder.base_model.model.encoder.layer.2.attention.self.key.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.2.attention.self.key.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.2.attention.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.2.attention.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.2.attention.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.2.attention.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.2.intermediate.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.2.intermediate.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.2.intermediate.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.2.intermediate.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.2.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.2.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.2.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.2.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.3.attention.self.key.base_layer.weight\", \"encoder.base_model.model.encoder.layer.3.attention.self.key.base_layer.bias\", \"encoder.base_model.model.encoder.layer.3.attention.self.key.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.3.attention.self.key.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.3.attention.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.3.attention.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.3.attention.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.3.attention.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.3.intermediate.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.3.intermediate.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.3.intermediate.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.3.intermediate.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.3.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.3.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.3.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.3.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.4.attention.self.key.base_layer.weight\", \"encoder.base_model.model.encoder.layer.4.attention.self.key.base_layer.bias\", \"encoder.base_model.model.encoder.layer.4.attention.self.key.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.4.attention.self.key.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.4.attention.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.4.attention.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.4.attention.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.4.attention.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.4.intermediate.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.4.intermediate.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.4.intermediate.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.4.intermediate.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.4.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.4.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.4.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.4.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.5.attention.self.key.base_layer.weight\", \"encoder.base_model.model.encoder.layer.5.attention.self.key.base_layer.bias\", \"encoder.base_model.model.encoder.layer.5.attention.self.key.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.5.attention.self.key.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.5.attention.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.5.attention.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.5.attention.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.5.attention.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.5.intermediate.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.5.intermediate.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.5.intermediate.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.5.intermediate.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.5.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.5.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.5.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.5.output.dense.lora_B.default.weight\", \"encoder.base_model.model.pooler.dense.base_layer.weight\", \"encoder.base_model.model.pooler.dense.base_layer.bias\", \"encoder.base_model.model.pooler.dense.lora_A.default.weight\", \"encoder.base_model.model.pooler.dense.lora_B.default.weight\". "
+    },
+    {
+      "run": "KyrgyzBert_lora_seed42",
+      "error": "Error(s) in loading state_dict for GlossSelectionModel:\n\tMissing key(s) in state_dict: \"encoder.base_model.model.encoder.layer.0.attention.self.key.weight\", \"encoder.base_model.model.encoder.layer.0.attention.self.key.bias\", \"encoder.base_model.model.encoder.layer.0.attention.output.dense.weight\", \"encoder.base_model.model.encoder.layer.0.attention.output.dense.bias\", \"encoder.base_model.model.encoder.layer.0.intermediate.dense.weight\", \"encoder.base_model.model.encoder.layer.0.intermediate.dense.bias\", \"encoder.base_model.model.encoder.layer.0.output.dense.weight\", \"encoder.base_model.model.encoder.layer.0.output.dense.bias\", \"encoder.base_model.model.encoder.layer.1.attention.self.key.weight\", \"encoder.base_model.model.encoder.layer.1.attention.self.key.bias\", \"encoder.base_model.model.encoder.layer.1.attention.output.dense.weight\", \"encoder.base_model.model.encoder.layer.1.attention.output.dense.bias\", \"encoder.base_model.model.encoder.layer.1.intermediate.dense.weight\", \"encoder.base_model.model.encoder.layer.1.intermediate.dense.bias\", \"encoder.base_model.model.encoder.layer.1.output.dense.weight\", \"encoder.base_model.model.encoder.layer.1.output.dense.bias\", \"encoder.base_model.model.encoder.layer.2.attention.self.key.weight\", \"encoder.base_model.model.encoder.layer.2.attention.self.key.bias\", \"encoder.base_model.model.encoder.layer.2.attention.output.dense.weight\", \"encoder.base_model.model.encoder.layer.2.attention.output.dense.bias\", \"encoder.base_model.model.encoder.layer.2.intermediate.dense.weight\", \"encoder.base_model.model.encoder.layer.2.intermediate.dense.bias\", \"encoder.base_model.model.encoder.layer.2.output.dense.weight\", \"encoder.base_model.model.encoder.layer.2.output.dense.bias\", \"encoder.base_model.model.encoder.layer.3.attention.self.key.weight\", \"encoder.base_model.model.encoder.layer.3.attention.self.key.bias\", \"encoder.base_model.model.encoder.layer.3.attention.output.dense.weight\", \"encoder.base_model.model.encoder.layer.3.attention.output.dense.bias\", \"encoder.base_model.model.encoder.layer.3.intermediate.dense.weight\", \"encoder.base_model.model.encoder.layer.3.intermediate.dense.bias\", \"encoder.base_model.model.encoder.layer.3.output.dense.weight\", \"encoder.base_model.model.encoder.layer.3.output.dense.bias\", \"encoder.base_model.model.encoder.layer.4.attention.self.key.weight\", \"encoder.base_model.model.encoder.layer.4.attention.self.key.bias\", \"encoder.base_model.model.encoder.layer.4.attention.output.dense.weight\", \"encoder.base_model.model.encoder.layer.4.attention.output.dense.bias\", \"encoder.base_model.model.encoder.layer.4.intermediate.dense.weight\", \"encoder.base_model.model.encoder.layer.4.intermediate.dense.bias\", \"encoder.base_model.model.encoder.layer.4.output.dense.weight\", \"encoder.base_model.model.encoder.layer.4.output.dense.bias\", \"encoder.base_model.model.encoder.layer.5.attention.self.key.weight\", \"encoder.base_model.model.encoder.layer.5.attention.self.key.bias\", \"encoder.base_model.model.encoder.layer.5.attention.output.dense.weight\", \"encoder.base_model.model.encoder.layer.5.attention.output.dense.bias\", \"encoder.base_model.model.encoder.layer.5.intermediate.dense.weight\", \"encoder.base_model.model.encoder.layer.5.intermediate.dense.bias\", \"encoder.base_model.model.encoder.layer.5.output.dense.weight\", \"encoder.base_model.model.encoder.layer.5.output.dense.bias\", \"encoder.base_model.model.pooler.dense.weight\", \"encoder.base_model.model.pooler.dense.bias\". \n\tUnexpected key(s) in state_dict: \"encoder.base_model.model.encoder.layer.0.attention.self.key.base_layer.weight\", \"encoder.base_model.model.encoder.layer.0.attention.self.key.base_layer.bias\", \"encoder.base_model.model.encoder.layer.0.attention.self.key.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.0.attention.self.key.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.0.attention.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.0.attention.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.0.attention.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.0.attention.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.0.intermediate.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.0.intermediate.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.0.intermediate.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.0.intermediate.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.0.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.0.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.0.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.0.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.1.attention.self.key.base_layer.weight\", \"encoder.base_model.model.encoder.layer.1.attention.self.key.base_layer.bias\", \"encoder.base_model.model.encoder.layer.1.attention.self.key.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.1.attention.self.key.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.1.attention.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.1.attention.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.1.attention.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.1.attention.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.1.intermediate.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.1.intermediate.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.1.intermediate.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.1.intermediate.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.1.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.1.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.1.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.1.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.2.attention.self.key.base_layer.weight\", \"encoder.base_model.model.encoder.layer.2.attention.self.key.base_layer.bias\", \"encoder.base_model.model.encoder.layer.2.attention.self.key.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.2.attention.self.key.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.2.attention.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.2.attention.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.2.attention.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.2.attention.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.2.intermediate.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.2.intermediate.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.2.intermediate.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.2.intermediate.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.2.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.2.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.2.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.2.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.3.attention.self.key.base_layer.weight\", \"encoder.base_model.model.encoder.layer.3.attention.self.key.base_layer.bias\", \"encoder.base_model.model.encoder.layer.3.attention.self.key.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.3.attention.self.key.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.3.attention.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.3.attention.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.3.attention.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.3.attention.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.3.intermediate.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.3.intermediate.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.3.intermediate.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.3.intermediate.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.3.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.3.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.3.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.3.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.4.attention.self.key.base_layer.weight\", \"encoder.base_model.model.encoder.layer.4.attention.self.key.base_layer.bias\", \"encoder.base_model.model.encoder.layer.4.attention.self.key.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.4.attention.self.key.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.4.attention.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.4.attention.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.4.attention.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.4.attention.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.4.intermediate.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.4.intermediate.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.4.intermediate.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.4.intermediate.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.4.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.4.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.4.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.4.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.5.attention.self.key.base_layer.weight\", \"encoder.base_model.model.encoder.layer.5.attention.self.key.base_layer.bias\", \"encoder.base_model.model.encoder.layer.5.attention.self.key.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.5.attention.self.key.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.5.attention.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.5.attention.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.5.attention.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.5.attention.output.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.5.intermediate.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.5.intermediate.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.5.intermediate.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.5.intermediate.dense.lora_B.default.weight\", \"encoder.base_model.model.encoder.layer.5.output.dense.base_layer.weight\", \"encoder.base_model.model.encoder.layer.5.output.dense.base_layer.bias\", \"encoder.base_model.model.encoder.layer.5.output.dense.lora_A.default.weight\", \"encoder.base_model.model.encoder.layer.5.output.dense.lora_B.default.weight\", \"encoder.base_model.model.pooler.dense.base_layer.weight\", \"encoder.base_model.model.pooler.dense.base_layer.bias\", \"encoder.base_model.model.pooler.dense.lora_A.default.weight\", \"encoder.base_model.model.pooler.dense.lora_B.default.weight\". "
+    }
+  ]
+}

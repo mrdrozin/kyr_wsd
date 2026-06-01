@@ -1,0 +1,2 @@
+# Multilingual BERT — мультиязычный бейзлайн.
+model_name: bert-base-multilingual-cased

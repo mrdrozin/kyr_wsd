@@ -1,0 +1,49 @@
+{
+  "per_run": [
+    {
+      "run": "KyrgyzBert_lora_seed1",
+      "accuracy": 0.7055,
+      "ci95": [
+        0.6598,
+        0.7466
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "KyrgyzBert_lora_seed2",
+      "accuracy": 0.6804,
+      "ci95": [
+        0.637,
+        0.7237
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    },
+    {
+      "run": "KyrgyzBert_lora_seed42",
+      "accuracy": 0.7032,
+      "ci95": [
+        0.6575,
+        0.7466
+      ],
+      "evaluated_instances": 438,
+      "skipped_no_gold": 0
+    }
+  ],
+  "by_config": {
+    "KyrgyzBert_lora": {
+      "seeds": 3,
+      "accuracies": [
+        0.7055,
+        0.6804,
+        0.7032
+      ],
+      "mean": 0.6964,
+      "std": 0.0139,
+      "min": 0.6804,
+      "max": 0.7055
+    }
+  },
+  "failed": []
+}

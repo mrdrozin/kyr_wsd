@@ -1,0 +1,32 @@
+# Общие гиперпараметры обучения. Конфиги моделей наследуют этот файл и
+# переопределяют только нужные поля (см. kyrgyzbert.yaml и др.).
+#
+# Число эпох не фиксируется: обучение идёт до max_epochs с early stopping
+# по dev accuracy. Обоснование выбора — experiments/METHODOLOGY.md.
+
+max_length: 256
+# Размер батча откалиброван под A100 40 GB. На T4 16 GB — снизьте до 16
+# (или 8 для XLM-R) и при желании верните grad_accum: 2 для прежней
+# эффективной размерности.
+batch_size: 32
+grad_accum: 1
+max_epochs: 10
+early_stopping_patience: 3
+warmup_ratio: 0.08
+weight_decay: 0.01
+dropout: 0.2
+lr: 2.0e-5
+log_steps: 50
+
+# LoRA по умолчанию — стандартный рецепт из статьи Hu et al. (для крупных
+# энкодеров типа mBERT/XLM-R/Kaz-RoBERTa этого хватает).
+# Для маленького KyrgyzBERT — переопределение в kyrgyzbert.yaml (шире адаптер).
+lora:
+  r: 16
+  alpha: 32
+  target_modules: [query, value]
+  dropout: 0.1
+  lr: 2.0e-4
+
+# seed'ы для многократного прогона (доверительные интервалы)
+seeds: [42, 1, 2, 3, 4]

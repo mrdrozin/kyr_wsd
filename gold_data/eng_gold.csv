@@ -1,0 +1,705 @@
+item_index,word,selected_option
+0,tradition,custom.n.02; tradition; a specific practice of long standing
+1,peace,peace.n.02; peace; harmonious relations; freedom from disputes
+2,nature,nature.n.03; nature; the natural physical world including plants and animals and landscapes etc.
+3,interest,interest.n.01; interest; a sense of concern with and curiosity about someone or something
+4,science,science.n.01; science; a particular branch of scientific knowledge
+5,hero,hero.n.01; hero; a man distinguished by exceptional courage and nobility and strength
+6,memory,memory.n.01; memory; something that is remembered
+7,state,state.n.04; state; a politically organized body of people under a single government
+8,territory,territory.n.03; territory; the geographical area under the jurisdiction of a sovereign state
+9,policy,policy.n.02; policy; a line of argument rationalizing the course of action of a government
+10,source,"beginning.n.04; source; the place where something begins, where it springs into being"
+11,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+12,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+13,state,state.n.04; state; a politically organized body of people under a single government
+14,society,society.n.01; society; an extended social group having a distinctive cultural and economic organization
+15,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+16,election,election.n.01; election; a vote to select the winner of a position or political office
+17,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+18,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+19,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+20,law,law.n.01; law; the collection of rules imposed by authority
+21,law,law.n.01; law; the collection of rules imposed by authority
+22,resource,resource.n.01; resource; available source of wealth; a new or reserve supply that can be drawn upon when needed
+23,voter,voter.n.01; voter; a citizen who has a legal right to vote
+24,border,boundary_line.n.01; border; a line that indicates a boundary
+25,territory,territory.n.03; territory; the geographical area under the jurisdiction of a sovereign state
+26,territory,territory.n.03; territory; the geographical area under the jurisdiction of a sovereign state
+27,law,law.n.01; law; the collection of rules imposed by authority
+28,branch,branch.n.01; branch; a division of some larger or more complex organization
+29,corruption,corruptness.n.02; corruption; lack of integrity or honesty (especially susceptibility to bribery); use of a position of trust for dishonest gain
+30,condition,condition.n.01; condition; a state at a particular time
+31,action,action.n.01; action; something done (usually as opposed to something said)
+32,state,state.n.03; state; the group of people comprising the government of a sovereign state
+33,action,action.n.01; action; something done (usually as opposed to something said)
+34,crime,crime.n.01; crime; (criminal law) an act punishable by law; usually considered an evil act
+35,condition,condition.n.07; condition; (usually plural) a statement of what is required as part of an agreement
+36,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+37,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+38,development,development.n.02; development; a process in which something passes by degrees to a different stage (especially a more advanced or mature stage)
+39,law,law.n.01; law; the collection of rules imposed by authority
+40,man,man.n.03; man; the generic use of the word to refer to any human being
+41,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+42,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+43,interest,interest.n.01; interest; a sense of concern with and curiosity about someone or something
+44,party,party.n.01; party; an organization to gain political power
+45,party,party.n.01; party; an organization to gain political power
+46,society,society.n.01; society; an extended social group having a distinctive cultural and economic organization
+47,group,group.n.01; group; any number of entities (members) considered as a unit
+48,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+49,security,security.n.01; security; the state of being free from danger or injury
+50,party,party.n.01; party; an organization to gain political power
+51,religion,religion.n.02; religion; an institution to express belief in a divine power
+52,state,state.n.04; state; a politically organized body of people under a single government
+53,religion,religion.n.02; religion; an institution to express belief in a divine power
+54,authority,authority.n.02; authority; (usually plural) persons who exercise (administrative) control over others
+55,information,information.n.01; information; a message received and understood
+56,law,law.n.01; law; the collection of rules imposed by authority
+57,security,security.n.01; security; the state of being free from danger or injury
+58,state,state.n.03; state; the group of people comprising the government of a sovereign state
+59,law,law.n.01; law; the collection of rules imposed by authority
+60,information,information.n.01; information; a message received and understood
+61,law,law.n.01; law; the collection of rules imposed by authority
+62,defense,defense.n.02; defense; protection from harm
+63,defense,defense.n.01; defense; (military) military action or resources protecting a country against potential enemies
+64,state,state.n.03; state; the group of people comprising the government of a sovereign state
+65,war,war.n.02; war; a legal state created by a declaration of war and ended by official declaration during which the international rules of war apply
+66,territory,territory.n.03; territory; the geographical area under the jurisdiction of a sovereign state
+67,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+68,use,use.n.01; use; the act of using
+69,state,state.n.04; state; a politically organized body of people under a single government
+70,language,language.n.01; language; a systematic means of communicating by the use of sounds or conventional symbols
+71,law,law.n.01; law; the collection of rules imposed by authority
+72,language,language.n.01; language; a systematic means of communicating by the use of sounds or conventional symbols
+73,condition,condition.n.01; condition; a state at a particular time
+74,use,use.n.01; use; the act of using
+75,law,law.n.01; law; the collection of rules imposed by authority
+76,city,city.n.02; city; an incorporated administrative district established by state charter
+77,law,law.n.01; law; the collection of rules imposed by authority
+78,som,som.n.02; som; the basic unit of money in Kyrgyzstan
+79,law,law.n.01; law; the collection of rules imposed by authority
+80,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+81,law,law.n.01; law; the collection of rules imposed by authority
+82,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+83,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+84,state,state.n.03; state; the group of people comprising the government of a sovereign state
+85,law,law.n.01; law; the collection of rules imposed by authority
+86,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+87,country,state.n.04; country; a politically organized body of people under a single government
+88,monument,monument.n.02; monument; an important site that is marked and preserved as public property
+89,state,state.n.04; state; a politically organized body of people under a single government
+90,law,law.n.01; law; the collection of rules imposed by authority
+91,air,air.n.02; air; the region above the ground
+92,water,body_of_water.n.01; water; the part of the earth's surface covered with water (such as a river or lake or ocean)
+93,forest,forest.n.02; forest; land that is covered with trees and shrubs
+94,flora,vegetation.n.01; flora; all the plant life in a particular region or period
+95,fauna,fauna.n.01; fauna; all the animal life in a particular region or period
+96,land,land.n.04; land; the solid part of the earth's surface
+97,resource,resource.n.01; resource; available source of wealth; a new or reserve supply that can be drawn upon when needed
+98,development,development.n.02; development; a process in which something passes by degrees to a different stage (especially a more advanced or mature stage)
+99,state,state.n.03; state; the group of people comprising the government of a sovereign state
+100,land,land.n.01; land; the land on which real estate is located
+101,forest,forest.n.02; forest; land that is covered with trees and shrubs
+102,land,land.n.01; land; the land on which real estate is located
+103,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+104,land,land.n.01; land; the land on which real estate is located
+105,law,law.n.01; law; the collection of rules imposed by authority
+106,condition,condition.n.01; condition; a state at a particular time
+107,economy,economy.n.01; economy; the system of production and distribution and consumption
+108,interest,sake.n.01; interest; a reason for wanting something done
+109,development,development.n.02; development; a process in which something passes by degrees to a different stage (especially a more advanced or mature stage)
+110,direction,direction.n.03; direction; a general course along which something has a tendency to develop
+111,program,program.n.02; program; a system of projects or services intended to meet a public need
+112,state,state.n.03; state; the group of people comprising the government of a sovereign state
+113,law,law.n.01; law; the collection of rules imposed by authority
+114,territory,territory.n.03; territory; the geographical area under the jurisdiction of a sovereign state
+115,tax,tax.n.01; tax; charge against a citizen's person or property or activity for the support of government
+116,tax,tax.n.01; tax; charge against a citizen's person or property or activity for the support of government
+117,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+118,state,state.n.03; state; the group of people comprising the government of a sovereign state
+119,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+120,category,class.n.01; category; a collection of things sharing a common attribute
+121,support,support.n.01; support; the activity of providing for or maintaining by supplying with money or necessities
+122,health,health.n.02; health; the general condition of body and mind
+123,service,service.n.04; service; a company or agency that performs a public service; subject to government regulation
+124,family,family.n.01; family; a social unit living together
+125,society,society.n.01; society; an extended social group having a distinctive cultural and economic organization
+126,family,family.n.02; family; primary social group; parents and children
+127,childhood,childhood.n.01; childhood; the time of person's life when they are a child
+128,society,society.n.01; society; an extended social group having a distinctive cultural and economic organization
+129,state,state.n.04; state; a politically organized body of people under a single government
+130,father,father.n.01; father; a male parent (also used as a term of address to your father)
+131,mother,mother.n.01; mother; a woman who has given birth to a child (also used as a term of address to your mother)
+132,child,child.n.02; child; a human offspring (son or daughter) of any age
+133,child,child.n.02; child; a human offspring (son or daughter) of any age
+134,child,child.n.02; child; a human offspring (son or daughter) of any age
+135,development,development.n.02; development; a process in which something passes by degrees to a different stage (especially a more advanced or mature stage)
+136,condition,condition.n.01; condition; a state at a particular time
+137,state,state.n.03; state; the group of people comprising the government of a sovereign state
+138,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+139,culture,culture.n.02; culture; the tastes in art and manners that are favored by a social group
+140,development,development.n.02; development; a process in which something passes by degrees to a different stage (especially a more advanced or mature stage)
+141,tradition,custom.n.02; tradition; a specific practice of long standing
+142,state,state.n.03; state; the group of people comprising the government of a sovereign state
+143,state,state.n.03; state; the group of people comprising the government of a sovereign state
+144,society,society.n.01; society; an extended social group having a distinctive cultural and economic organization
+145,state,state.n.04; state; a politically organized body of people under a single government
+146,development,development.n.02; development; a process in which something passes by degrees to a different stage (especially a more advanced or mature stage)
+147,technology,technology.n.01; technology; the practical application of science to commerce or industry
+148,state,state.n.03; state; the group of people comprising the government of a sovereign state
+149,organization,organization.n.01; organization; a group of people who work together
+150,state,state.n.03; state; the group of people comprising the government of a sovereign state
+151,quality,quality.n.02; quality; a degree or grade of excellence or worth
+152,state,state.n.03; state; the group of people comprising the government of a sovereign state
+153,organization,organization.n.01; organization; a group of people who work together
+154,state,state.n.03; state; the group of people comprising the government of a sovereign state
+155,science,science.n.01; science; a particular branch of scientific knowledge
+156,state,state.n.03; state; the group of people comprising the government of a sovereign state
+157,organization,organization.n.01; organization; a group of people who work together
+158,state,state.n.03; state; the group of people comprising the government of a sovereign state
+159,direction,direction.n.03; direction; a general course along which something has a tendency to develop
+160,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+161,law,law.n.01; law; the collection of rules imposed by authority
+162,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+163,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+164,content,content.n.01; content; everything that is included in a collection and that is held or included in something
+165,security,security.n.01; security; the state of being free from danger or injury
+166,health,health.n.02; health; the general condition of body and mind
+167,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+168,service,service.n.04; service; a company or agency that performs a public service; subject to government regulation
+169,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+170,law,law.n.01; law; the collection of rules imposed by authority
+171,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+172,law,law.n.01; law; the collection of rules imposed by authority
+173,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+174,territory,territory.n.03; territory; the geographical area under the jurisdiction of a sovereign state
+175,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+176,sex,sex.n.02; sex; either of the two categories (male or female) into which most organisms are divided
+177,language,language.n.01; language; a systematic means of communicating by the use of sounds or conventional symbols
+178,religion,religion.n.02; religion; an institution to express belief in a divine power
+179,status,status.n.01; status; the relative position or standing of things or especially persons in a society
+180,law,law.n.01; law; the collection of rules imposed by authority
+181,group,group.n.01; group; any number of entities (members) considered as a unit
+182,law,law.n.01; law; the collection of rules imposed by authority
+183,law,law.n.01; law; the collection of rules imposed by authority
+184,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+185,man,man.n.01; man; an adult person who is male (as opposed to a woman)
+186,woman,woman.n.01; woman; an adult female person (as opposed to a man)
+187,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+188,life,life.n.01; life; a characteristic state or mode of living
+189,health,health.n.02; health; the general condition of body and mind
+190,life,animation.n.01; life; the condition of living or the state of being alive
+191,death,death.n.02; death; the permanent end of all life functions in an organism or part of an organism
+192,penalty,punishment.n.01; penalty; the act of punishing
+193,family,family.n.01; family; a social unit living together
+194,man,man.n.01; man; an adult person who is male (as opposed to a woman)
+195,woman,woman.n.01; woman; an adult female person (as opposed to a man)
+196,marriage,marriage.n.02; marriage; two people who are married to each other
+197,state,state.n.03; state; the group of people comprising the government of a sovereign state
+198,child,child.n.02; child; a human offspring (son or daughter) of any age
+199,father,father.n.01; father; a male parent (also used as a term of address to your father)
+200,mother,mother.n.01; mother; a woman who has given birth to a child (also used as a term of address to your mother)
+201,child,child.n.02; child; a human offspring (son or daughter) of any age
+202,parent,parent.n.01; parent; a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian
+203,marriage,marriage.n.01; marriage; the state of being a married couple voluntarily joined for life (or until divorce)
+204,family,family.n.01; family; a social unit living together
+205,child,child.n.02; child; a human offspring (son or daughter) of any age
+206,development,development.n.02; development; a process in which something passes by degrees to a different stage (especially a more advanced or mature stage)
+207,child,child.n.01; child; a young person of either sex
+208,interest,sake.n.01; interest; a reason for wanting something done
+209,child,child.n.02; child; a human offspring (son or daughter) of any age
+210,condition,condition.n.01; condition; a state at a particular time
+211,parent,parent.n.01; parent; a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian
+212,state,state.n.03; state; the group of people comprising the government of a sovereign state
+213,orphan,orphan.n.01; orphan; a child who has lost both parents
+214,age,age.n.01; age; how long something has existed
+215,child,child.n.01; child; a young person of either sex
+216,war,war.n.02; war; a legal state created by a declaration of war and ended by official declaration during which the international rules of war apply
+217,disaster,calamity.n.01; disaster; an event resulting in great loss and misfortune
+218,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+219,information,information.n.01; information; a message received and understood
+220,conversation,conversation.n.01; conversation; the use of speech for informal exchange of views or ideas or information etc.
+221,law,law.n.01; law; the collection of rules imposed by authority
+222,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+223,law,law.n.01; law; the collection of rules imposed by authority
+224,life,life.n.01; life; a characteristic state or mode of living
+225,use,use.n.01; use; the act of using
+226,life,life.n.01; life; a characteristic state or mode of living
+227,action,action.n.01; action; something done (usually as opposed to something said)
+228,harm,damage.n.01; harm; the occurrence of a change for the worse
+229,action,action.n.01; action; something done (usually as opposed to something said)
+230,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+231,law,law.n.01; law; the collection of rules imposed by authority
+232,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+233,action,action.n.01; action; something done (usually as opposed to something said)
+234,authority,authority.n.02; authority; (usually plural) persons who exercise (administrative) control over others
+235,action,action.n.01; action; something done (usually as opposed to something said)
+236,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+237,territory,territory.n.03; territory; the geographical area under the jurisdiction of a sovereign state
+238,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+239,law,law.n.01; law; the collection of rules imposed by authority
+240,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+241,thought,thought.n.03; thought; the organized beliefs of a period or group or individual
+242,opinion,opinion.n.01; opinion; a personal belief or judgment that is not founded on proof or certainty
+243,speech,speech.n.02; speech; (language) communication by word of mouth
+244,opinion,opinion.n.01; opinion; a personal belief or judgment that is not founded on proof or certainty
+245,information,information.n.01; information; a message received and understood
+246,organization,organization.n.01; organization; a group of people who work together
+247,information,information.n.01; information; a message received and understood
+248,organization,organization.n.01; organization; a group of people who work together
+249,information,information.n.02; information; knowledge acquired through study or experience or instruction
+250,information,information.n.02; information; knowledge acquired through study or experience or instruction
+251,information,information.n.02; information; knowledge acquired through study or experience or instruction
+252,law,law.n.01; law; the collection of rules imposed by authority
+253,religion,religion.n.01; religion; a strong belief in a supernatural power or powers that control human destiny
+254,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+255,action,action.n.01; action; something done (usually as opposed to something said)
+256,harm,damage.n.01; harm; the occurrence of a change for the worse
+257,state,state.n.03; state; the group of people comprising the government of a sovereign state
+258,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+259,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+260,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+261,state,state.n.03; state; the group of people comprising the government of a sovereign state
+262,representative,representative.n.01; representative; a person who represents others
+263,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+264,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+265,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+266,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+267,law,law.n.01; law; the collection of rules imposed by authority
+268,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+269,information,information.n.01; information; a message received and understood
+270,citizenship,citizenship.n.01; citizenship; the status of a citizen with rights and duties
+271,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+272,law,law.n.01; law; the collection of rules imposed by authority
+273,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+274,content,content.n.01; content; everything that is included in a collection and that is held or included in something
+275,law,law.n.01; law; the collection of rules imposed by authority
+276,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+277,law,law.n.01; law; the collection of rules imposed by authority
+278,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+279,profession,profession.n.02; profession; an occupation requiring special education (especially in the liberal arts or sciences)
+280,safety,safety.n.01; safety; the state of being certain that adverse effects will not be caused by some agent under defined conditions
+281,condition,condition.n.01; condition; a state at a particular time
+282,law,law.n.01; law; the collection of rules imposed by authority
+283,wage,wage.n.01; wage; something that remunerates
+284,condition,condition.n.01; condition; a state at a particular time
+285,law,law.n.01; law; the collection of rules imposed by authority
+286,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+287,condition,condition.n.07; condition; (usually plural) a statement of what is required as part of an agreement
+288,law,law.n.01; law; the collection of rules imposed by authority
+289,condition,condition.n.07; condition; (usually plural) a statement of what is required as part of an agreement
+290,law,law.n.01; law; the collection of rules imposed by authority
+291,state,state.n.03; state; the group of people comprising the government of a sovereign state
+292,condition,condition.n.01; condition; a state at a particular time
+293,health,health.n.02; health; the general condition of body and mind
+294,state,state.n.03; state; the group of people comprising the government of a sovereign state
+295,condition,condition.n.01; condition; a state at a particular time
+296,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+297,network,network.n.01; network; an interconnected system of things or people
+298,use,use.n.01; use; the act of using
+299,law,law.n.01; law; the collection of rules imposed by authority
+300,life,animation.n.01; life; the condition of living or the state of being alive
+301,health,health.n.02; health; the general condition of body and mind
+302,law,law.n.01; law; the collection of rules imposed by authority
+303,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+304,law,law.n.01; law; the collection of rules imposed by authority
+305,work,work.n.01; work; activity directed toward making or doing something
+306,law,law.n.01; law; the collection of rules imposed by authority
+307,state,state.n.03; state; the group of people comprising the government of a sovereign state
+308,assistance,aid.n.02; assistance; the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose
+309,law,law.n.01; law; the collection of rules imposed by authority
+310,level,degree.n.01; level; a position on a scale of intensity or amount or quality
+311,state,state.n.03; state; the group of people comprising the government of a sovereign state
+312,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+313,quality,quality.n.02; quality; a degree or grade of excellence or worth
+314,state,state.n.03; state; the group of people comprising the government of a sovereign state
+315,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+316,family,family.n.01; family; a social unit living together
+317,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+318,condition,condition.n.01; condition; a state at a particular time
+319,law,law.n.01; law; the collection of rules imposed by authority
+320,education,education.n.01; education; the activities of educating or instructing; activities that impart knowledge or skill
+321,organization,organization.n.01; organization; a group of people who work together
+322,school,school.n.03; school; the process of being formally educated at a school
+323,school,school.n.03; school; the process of being formally educated at a school
+324,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+325,language,language.n.01; language; a systematic means of communicating by the use of sounds or conventional symbols
+326,condition,condition.n.01; condition; a state at a particular time
+327,state,state.n.03; state; the group of people comprising the government of a sovereign state
+328,condition,condition.n.01; condition; a state at a particular time
+329,state,state.n.03; state; the group of people comprising the government of a sovereign state
+330,sport,sport.n.01; sport; an active diversion requiring physical exertion and competition
+331,condition,condition.n.01; condition; a state at a particular time
+332,state,state.n.03; state; the group of people comprising the government of a sovereign state
+333,law,law.n.01; law; the collection of rules imposed by authority
+334,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+335,development,development.n.02; development; a process in which something passes by degrees to a different stage (especially a more advanced or mature stage)
+336,state,state.n.03; state; the group of people comprising the government of a sovereign state
+337,condition,condition.n.01; condition; a state at a particular time
+338,family,family.n.01; family; a social unit living together
+339,policy,policy.n.02; policy; a line of argument rationalizing the course of action of a government
+340,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+341,interest,interest.n.01; interest; a sense of concern with and curiosity about someone or something
+342,life,life.n.01; life; a characteristic state or mode of living
+343,state,state.n.03; state; the group of people comprising the government of a sovereign state
+344,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+345,culture,culture.n.02; culture; the tastes in art and manners that are favored by a social group
+346,condition,condition.n.01; condition; a state at a particular time
+347,law,law.n.01; law; the collection of rules imposed by authority
+348,health,health.n.02; health; the general condition of body and mind
+349,action,action.n.01; action; something done (usually as opposed to something said)
+350,health,health.n.02; health; the general condition of body and mind
+351,damage,damage.n.01; damage; the occurrence of a change for the worse
+352,flora,vegetation.n.01; flora; all the plant life in a particular region or period
+353,fauna,fauna.n.01; fauna; all the animal life in a particular region or period
+354,law,law.n.01; law; the collection of rules imposed by authority
+355,tax,tax.n.01; tax; charge against a citizen's person or property or activity for the support of government
+356,citizenship,citizenship.n.01; citizenship; the status of a citizen with rights and duties
+357,state,state.n.03; state; the group of people comprising the government of a sovereign state
+358,relationship,relationship.n.03; relationship; a state involving mutual dealings between people or parties or countries
+359,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+360,citizenship,citizenship.n.01; citizenship; the status of a citizen with rights and duties
+361,state,state.n.04; state; a politically organized body of people under a single government
+362,law,law.n.01; law; the collection of rules imposed by authority
+363,citizenship,citizenship.n.01; citizenship; the status of a citizen with rights and duties
+364,state,state.n.04; state; a politically organized body of people under a single government
+365,citizenship,citizenship.n.01; citizenship; the status of a citizen with rights and duties
+366,condition,condition.n.07; condition; (usually plural) a statement of what is required as part of an agreement
+367,law,law.n.01; law; the collection of rules imposed by authority
+368,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+369,passport,passport.n.02; passport; a document issued by a country to a citizen allowing that person to travel abroad and re-enter the home country
+370,state,state.n.03; state; the group of people comprising the government of a sovereign state
+371,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+372,republic,republic.n.02; republic; a form of government whose head of state is not a monarch
+373,state,country.n.02; state; the territory occupied by a nation
+374,border,boundary_line.n.01; border; a line that indicates a boundary
+375,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+376,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+377,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+378,state,country.n.02; state; the territory occupied by a nation
+379,rule,rule.n.01; rule; a principle or condition that customarily governs behavior
+380,society,society.n.01; society; an extended social group having a distinctive cultural and economic organization
+381,interest,interest.n.01; interest; a sense of concern with and curiosity about someone or something
+382,law,law.n.01; law; the collection of rules imposed by authority
+383,action,action.n.01; action; something done (usually as opposed to something said)
+384,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+385,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+386,defense,defense.n.01; defense; (military) military action or resources protecting a country against potential enemies
+387,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+388,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+389,law,law.n.01; law; the collection of rules imposed by authority
+390,condition,condition.n.07; condition; (usually plural) a statement of what is required as part of an agreement
+391,law,law.n.01; law; the collection of rules imposed by authority
+392,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+393,state,state.n.03; state; the group of people comprising the government of a sovereign state
+394,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+395,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+396,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+397,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+398,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+399,crime,crime.n.01; crime; (criminal law) an act punishable by law; usually considered an evil act
+400,punishment,punishment.n.01; punishment; the act of punishing
+401,law,law.n.01; law; the collection of rules imposed by authority
+402,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+403,liberty,liberty.n.03; liberty; personal freedom from servitude or confinement or oppression
+404,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+405,crime,crime.n.01; crime; (criminal law) an act punishable by law; usually considered an evil act
+406,damage,wrong.n.02; damage; any harm or injury resulting from a violation of a legal right
+407,crime,crime.n.01; crime; (criminal law) an act punishable by law; usually considered an evil act
+408,law,law.n.01; law; the collection of rules imposed by authority
+409,law,law.n.01; law; the collection of rules imposed by authority
+410,law,law.n.01; law; the collection of rules imposed by authority
+411,law,law.n.01; law; the collection of rules imposed by authority
+412,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+413,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+414,law,law.n.01; law; the collection of rules imposed by authority
+415,liberty,liberty.n.02; liberty; freedom of choice
+416,liberty,liberty.n.02; liberty; freedom of choice
+417,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+418,law,law.n.01; law; the collection of rules imposed by authority
+419,liberty,liberty.n.02; liberty; freedom of choice
+420,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+421,hour,hour.n.01; hour; a period of time equal to 1/24th of a day
+422,hour,hour.n.01; hour; a period of time equal to 1/24th of a day
+423,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+424,law,law.n.01; law; the collection of rules imposed by authority
+425,lawyer,lawyer.n.01; lawyer; a professional person authorized to practice law; conducts lawsuits or gives legal advice
+426,doctor,doctor.n.01; doctor; a licensed medical practitioner
+427,law,law.n.01; law; the collection of rules imposed by authority
+428,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+429,act,act.n.02; act; something that people do or cause to happen
+430,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+431,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+432,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+433,law,law.n.01; law; the collection of rules imposed by authority
+434,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+435,state,state.n.03; state; the group of people comprising the government of a sovereign state
+436,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+437,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+438,law,law.n.01; law; the collection of rules imposed by authority
+439,assistance,aid.n.02; assistance; the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose
+440,law,law.n.01; law; the collection of rules imposed by authority
+441,aid,aid.n.02; aid; the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose
+442,state,state.n.03; state; the group of people comprising the government of a sovereign state
+443,state,state.n.03; state; the group of people comprising the government of a sovereign state
+444,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+445,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+446,speech,speech.n.02; speech; (language) communication by word of mouth
+447,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+448,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+449,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+450,law,law.n.01; law; the collection of rules imposed by authority
+451,law,law.n.01; law; the collection of rules imposed by authority
+452,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+453,state,state.n.03; state; the group of people comprising the government of a sovereign state
+454,state,state.n.03; state; the group of people comprising the government of a sovereign state
+455,president,president.n.03; president; the chief executive of a republic
+456,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+457,state,state.n.04; state; a politically organized body of people under a single government
+458,policy,policy.n.02; policy; a line of argument rationalizing the course of action of a government
+459,direction,direction.n.03; direction; a general course along which something has a tendency to develop
+460,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+461,language,language.n.01; language; a systematic means of communicating by the use of sounds or conventional symbols
+462,republic,republic.n.02; republic; a form of government whose head of state is not a monarch
+463,year,year.n.01; year; a period of time containing 365 (or 366) days
+464,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+465,president,president.n.03; president; the chief executive of a republic
+466,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+467,development,development.n.02; development; a process in which something passes by degrees to a different stage (especially a more advanced or mature stage)
+468,program,platform.n.02; program; a document stating the aims and principles of a political party
+469,voter,voter.n.01; voter; a citizen who has a legal right to vote
+470,election,election.n.01; election; a vote to select the winner of a position or political office
+471,law,law.n.01; law; the collection of rules imposed by authority
+472,law,law.n.01; law; the collection of rules imposed by authority
+473,voter,voter.n.01; voter; a citizen who has a legal right to vote
+474,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+475,law,law.n.01; law; the collection of rules imposed by authority
+476,draft,draft.n.05; draft; any of the various versions in the development of a written work
+477,policy,policy.n.02; policy; a line of argument rationalizing the course of action of a government
+478,direction,direction.n.03; direction; a general course along which something has a tendency to develop
+479,case,case.n.01; case; an occurrence of something
+480,information,information.n.01; information; a message received and understood
+481,election,election.n.01; election; a vote to select the winner of a position or political office
+482,president,president.n.01; president; an executive officer of a firm or corporation
+483,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+484,organization,organization.n.01; organization; a group of people who work together
+485,representative,representative.n.01; representative; a person who represents others
+486,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+487,security,security.n.01; security; the state of being free from danger or injury
+488,interest,sake.n.01; interest; a reason for wanting something done
+489,war,war.n.01; war; the waging of armed conflict against an enemy
+490,title,title.n.06; title; an identifying appellation signifying status or function: e.g. `Mr.' or `General'
+491,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+492,territory,territory.n.03; territory; the geographical area under the jurisdiction of a sovereign state
+493,illness,illness.n.01; illness; impairment of normal physiological function affecting part or all of an organism
+494,illness,illness.n.01; illness; impairment of normal physiological function affecting part or all of an organism
+495,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+496,vote,vote.n.01; vote; a choice that is made by counting the number of people in favor of each alternative
+497,vote,vote.n.01; vote; a choice that is made by counting the number of people in favor of each alternative
+498,action,action.n.01; action; something done (usually as opposed to something said)
+499,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+500,vote,vote.n.01; vote; a choice that is made by counting the number of people in favor of each alternative
+501,law,law.n.01; law; the collection of rules imposed by authority
+502,title,title.n.06; title; an identifying appellation signifying status or function: e.g. `Mr.' or `General'
+503,president,president.n.03; president; the chief executive of a republic
+504,law,law.n.01; law; the collection of rules imposed by authority
+505,election,election.n.01; election; a vote to select the winner of a position or political office
+506,day,day.n.03; day; a day assigned to a particular purpose or observance
+507,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+508,law,law.n.01; law; the collection of rules imposed by authority
+509,law,law.n.01; law; the collection of rules imposed by authority
+510,faction,Нет верного варианта
+511,group,group.n.01; group; any number of entities (members) considered as a unit
+512,election,election.n.01; election; a vote to select the winner of a position or political office
+513,day,day.n.01; day; time for Earth to make a complete rotation on its axis
+514,day,day.n.03; day; a day assigned to a particular purpose or observance
+515,day,day.n.03; day; a day assigned to a particular purpose or observance
+516,opinion,opinion.n.02; opinion; a message expressing a belief about something; the expression of a belief that is held with confidence but not substantiated by positive knowledge or proof
+517,crime,crime.n.01; crime; (criminal law) an act punishable by law; usually considered an evil act
+518,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+519,service,service.n.04; service; a company or agency that performs a public service; subject to government regulation
+520,organization,organization.n.01; organization; a group of people who work together
+521,state,state.n.04; state; a politically organized body of people under a single government
+522,election,election.n.01; election; a vote to select the winner of a position or political office
+523,day,day.n.01; day; time for Earth to make a complete rotation on its axis
+524,border,boundary_line.n.01; border; a line that indicates a boundary
+525,member,member.n.01; member; one of the persons who compose a social group (especially individuals who have joined and participate in a group organization)
+526,structure,structure.n.01; structure; a thing constructed; a complex entity constructed of many parts
+527,election,election.n.01; election; a vote to select the winner of a position or political office
+528,security,security.n.01; security; the state of being free from danger or injury
+529,border,boundary_line.n.01; border; a line that indicates a boundary
+530,title,title.n.06; title; an identifying appellation signifying status or function: e.g. `Mr.' or `General'
+531,president,president.n.01; president; an executive officer of a firm or corporation
+532,information,information.n.01; information; a message received and understood
+533,state,state.n.03; state; the group of people comprising the government of a sovereign state
+534,organization,organization.n.01; organization; a group of people who work together
+535,representative,representative.n.01; representative; a person who represents others
+536,speech,address.n.03; speech; the act of delivering a formal spoken communication to an audience
+537,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+538,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+539,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+540,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+541,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+542,draft,draft.n.05; draft; any of the various versions in the development of a written work
+543,year,year.n.01; year; a period of time containing 365 (or 366) days
+544,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+545,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+546,vote,vote.n.01; vote; a choice that is made by counting the number of people in favor of each alternative
+547,election,election.n.01; election; a vote to select the winner of a position or political office
+548,voter,voter.n.01; voter; a citizen who has a legal right to vote
+549,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+550,draft,draft.n.05; draft; any of the various versions in the development of a written work
+551,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+552,draft,draft.n.05; draft; any of the various versions in the development of a written work
+553,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+554,draft,draft.n.05; draft; any of the various versions in the development of a written work
+555,source,"beginning.n.04; source; the place where something begins, where it springs into being"
+556,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+557,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+558,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+559,border,boundary_line.n.01; border; a line that indicates a boundary
+560,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+561,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+562,day,day.n.01; day; time for Earth to make a complete rotation on its axis
+563,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+564,month,month.n.02; month; a time unit of approximately 30 days
+565,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+566,law,law.n.01; law; the collection of rules imposed by authority
+567,act,act.n.01; act; a legal document codifying the result of deliberations of a committee or society or legislative body
+568,member,member.n.01; member; one of the persons who compose a social group (especially individuals who have joined and participate in a group organization)
+569,member,member.n.01; member; one of the persons who compose a social group (especially individuals who have joined and participate in a group organization)
+570,member,member.n.01; member; one of the persons who compose a social group (especially individuals who have joined and participate in a group organization)
+571,member,member.n.01; member; one of the persons who compose a social group (especially individuals who have joined and participate in a group organization)
+572,law,law.n.01; law; the collection of rules imposed by authority
+573,direction,direction.n.03; direction; a general course along which something has a tendency to develop
+574,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+575,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+576,security,security.n.01; security; the state of being free from danger or injury
+577,condition,condition.n.01; condition; a state at a particular time
+578,program,plan.n.01; program; a series of steps to be carried out or goals to be accomplished
+579,society,society.n.01; society; an extended social group having a distinctive cultural and economic organization
+580,law,law.n.01; law; the collection of rules imposed by authority
+581,member,member.n.01; member; one of the persons who compose a social group (especially individuals who have joined and participate in a group organization)
+582,member,member.n.01; member; one of the persons who compose a social group (especially individuals who have joined and participate in a group organization)
+583,territory,territory.n.03; territory; the geographical area under the jurisdiction of a sovereign state
+584,law,law.n.01; law; the collection of rules imposed by authority
+585,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+586,territory,district.n.01; territory; a region marked off for administrative or other purposes
+587,law,law.n.01; law; the collection of rules imposed by authority
+588,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+589,law,law.n.01; law; the collection of rules imposed by authority
+590,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+591,law,law.n.01; law; the collection of rules imposed by authority
+592,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+593,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+594,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+595,law,law.n.01; law; the collection of rules imposed by authority
+596,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+597,crime,crime.n.01; crime; (criminal law) an act punishable by law; usually considered an evil act
+598,law,law.n.01; law; the collection of rules imposed by authority
+599,profession,profession.n.02; profession; an occupation requiring special education (especially in the liberal arts or sciences)
+600,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+601,profession,profession.n.02; profession; an occupation requiring special education (especially in the liberal arts or sciences)
+602,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+603,president,president.n.01; president; an executive officer of a firm or corporation
+604,president,president.n.01; president; an executive officer of a firm or corporation
+605,profession,profession.n.02; profession; an occupation requiring special education (especially in the liberal arts or sciences)
+606,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+607,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+608,law,law.n.01; law; the collection of rules imposed by authority
+609,law,law.n.01; law; the collection of rules imposed by authority
+610,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+611,law,law.n.01; law; the collection of rules imposed by authority
+612,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+613,law,law.n.01; law; the collection of rules imposed by authority
+614,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+615,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+616,law,law.n.01; law; the collection of rules imposed by authority
+617,day,day.n.03; day; a day assigned to a particular purpose or observance
+618,job,occupation.n.01; job; the principal activity in your life that you do to earn money
+619,law,law.n.01; law; the collection of rules imposed by authority
+620,law,law.n.01; law; the collection of rules imposed by authority
+621,law,law.n.01; law; the collection of rules imposed by authority
+622,representative,representative.n.01; representative; a person who represents others
+623,law,law.n.01; law; the collection of rules imposed by authority
+624,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+625,act,act.n.01; act; a legal document codifying the result of deliberations of a committee or society or legislative body
+626,power,power.n.05; power; one possessing or exercising power or influence or authority
+627,branch,branch.n.01; branch; a division of some larger or more complex organization
+628,draft,draft.n.05; draft; any of the various versions in the development of a written work
+629,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+630,law,law.n.01; law; the collection of rules imposed by authority
+631,territory,territory.n.03; territory; the geographical area under the jurisdiction of a sovereign state
+632,territory,territory.n.03; territory; the geographical area under the jurisdiction of a sovereign state
+633,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+634,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+635,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+636,law,law.n.01; law; the collection of rules imposed by authority
+637,case,case.n.01; case; an occurrence of something
+638,law,law.n.01; law; the collection of rules imposed by authority
+639,state,state.n.03; state; the group of people comprising the government of a sovereign state
+640,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+641,work,work.n.01; work; activity directed toward making or doing something
+642,condition,condition.n.01; condition; a state at a particular time
+643,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+644,law,law.n.01; law; the collection of rules imposed by authority
+645,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+646,law,law.n.01; law; the collection of rules imposed by authority
+647,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+648,law,law.n.01; law; the collection of rules imposed by authority
+649,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+650,interest,interest.n.01; interest; a sense of concern with and curiosity about someone or something
+651,law,law.n.01; law; the collection of rules imposed by authority
+652,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+653,republic,republic.n.02; republic; a form of government whose head of state is not a monarch
+654,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+655,law,law.n.01; law; the collection of rules imposed by authority
+656,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+657,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+658,question,doubt.n.02; question; uncertainty about the truth or factuality or existence of something
+659,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+660,interest,sake.n.01; interest; a reason for wanting something done
+661,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+662,law,law.n.01; law; the collection of rules imposed by authority
+663,law,law.n.01; law; the collection of rules imposed by authority
+664,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+665,law,law.n.01; law; the collection of rules imposed by authority
+666,freedom,freedom.n.01; freedom; the condition of being free; the power to act or speak or think without externally imposed restraints
+667,section,section.n.01; section; a self-contained part of a larger composition (written or musical)
+668,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+669,interest,sake.n.01; interest; a reason for wanting something done
+670,territory,district.n.01; territory; a region marked off for administrative or other purposes
+671,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+672,state,state.n.03; state; the group of people comprising the government of a sovereign state
+673,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+674,law,law.n.01; law; the collection of rules imposed by authority
+675,law,law.n.01; law; the collection of rules imposed by authority
+676,development,development.n.02; development; a process in which something passes by degrees to a different stage (especially a more advanced or mature stage)
+677,program,plan.n.01; program; a series of steps to be carried out or goals to be accomplished
+678,law,law.n.01; law; the collection of rules imposed by authority
+679,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+680,state,state.n.03; state; the group of people comprising the government of a sovereign state
+681,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+682,work,work.n.01; work; activity directed toward making or doing something
+683,citizen,citizen.n.01; citizen; a native or naturalized member of a state or other political community
+684,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+685,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+686,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+687,law,law.n.01; law; the collection of rules imposed by authority
+688,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+689,court,court.n.01; court; an assembly (including one or more judges) to conduct judicial business
+690,law,law.n.01; law; the collection of rules imposed by authority
+691,voter,voter.n.01; voter; a citizen who has a legal right to vote
+692,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+693,section,section.n.01; section; a self-contained part of a larger composition (written or musical)
+694,voter,voter.n.01; voter; a citizen who has a legal right to vote
+695,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+696,section,section.n.01; section; a self-contained part of a larger composition (written or musical)
+697,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+698,draft,draft.n.05; draft; any of the various versions in the development of a written work
+699,month,month.n.02; month; a time unit of approximately 30 days
+700,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+701,number,number.n.01; number; the property possessed by a sum or total or indefinite quantity of units or individuals
+702,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity
+703,law,law.n.02; law; legal document setting forth rules governing a particular kind of activity

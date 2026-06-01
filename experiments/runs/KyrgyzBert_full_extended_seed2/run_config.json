@@ -1,0 +1,8 @@
+{
+  "model_name": "metinovadilet/KyrgyzBert",
+  "lora": false,
+  "seed": 2,
+  "max_length": 256,
+  "dropout": 0.2,
+  "lr": 2e-05
+}
